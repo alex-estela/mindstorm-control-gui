@@ -1,0 +1,8 @@
+{
+  "name": "mindstorm-control-gui",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery-ui-dist": "^1.12.1",
+    "jquery-ui-touch-punch": "^0.2.3"
+  }
+}
